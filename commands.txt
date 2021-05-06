@@ -1,1 +1,10 @@
-git init - To initialize the repository 
+1. git init - To initialize the repository 
+2. git remote add origin https://github.com/UmamaheshMaxwell/git-basic-master.git - Connect your local repository to remote repository
+3. git status - To check the status of the files to see if they are created /modified
+4. git diff - to see the changes made to the files
+4. git add filename - To add file to local git repository 
+5. git add . - To add multiple files to local git repository
+6. git commit -am "added new files to repository" - This will commit all the changes made to files 
+7. git push origin master 
+
+
