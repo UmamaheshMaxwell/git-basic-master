@@ -7,5 +7,3 @@
 6. git commit -am "added new files to repository" - This will commit all the changes made to files 
 7. git push origin master - To push the changes to remote repository
 8. git pull origin master - To pull the changes from remote repository 
-
-
